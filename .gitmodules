@@ -1,0 +1,3 @@
+[submodule "sandbox_submodule2"]
+	path = sandbox_submodule2
+	url = https://github.com/the9ball/sandbox_submodule2.git
